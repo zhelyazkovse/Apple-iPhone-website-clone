@@ -131,3 +131,4 @@ dist
 
 # Ignore Sentry build plugin env file
 .env.sentry-build-plugin
+.vercel
